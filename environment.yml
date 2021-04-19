@@ -1,0 +1,10 @@
+name: jiaf
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - jupyterlab
+  - pandas
+  - openpyxl
+  - jupytext
+prefix: /Users/brian/miniconda3/envs/jiaf
